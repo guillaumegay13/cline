@@ -1,0 +1,40 @@
+apps/vscode/src/sdk/model-catalog/provider-id.ts
+  s_2af06e192926bf::t_f80b958c2e1651 61
+sdk/packages/llms/src/providers/builtins.ts
+  s_2af06e192926bf::t_cb0731687d1c40 886-896
+  s_2af06e192926bf::t_c874de2dd29a67 885
+sdk/packages/llms/src/providers/ids.ts
+  s_2af06e192926bf::t_def7e3908520fb 51
+apps/vscode/src/sdk/model-catalog/provider-id.test.ts
+  s_2af06e192926bf::t_3733b98d4d7668 53,70
+apps/vscode/src/shared/api.ts
+  s_2af06e192926bf::t_29705ecc96913a 53
+apps/vscode/src/shared/proto-conversions/models/api-configuration-conversion.test.ts
+  s_2af06e192926bf::t_0d0c3aaca1a34d 7
+apps/vscode/webview-ui/src/components/settings/providers/providerSettingsRegistry.test.ts
+  s_2af06e192926bf::t_d9794d6103dd4b 73
+apps/vscode/webview-ui/src/components/settings/providers/providerSettingsRegistry.ts
+  s_2af06e192926bf::t_7ce6fa94a3aadb 103,162
+sdk/packages/llms/src/catalog/catalog.generated.ts
+  s_2af06e192926bf::t_f9550783e040a3 24071-24081
+sdk/packages/llms/src/providers/ids.test.ts
+  s_2af06e192926bf::t_3aabfdbc9167ba 188-208
+sdk/packages/llms/src/providers/provider-keys.ts
+  s_2af06e192926bf::t_dc1f22d3f4de7a 123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e17b8ac152f4b27d1cd251ef7b5b32fffc2b4f15",
+  "prompts": {},
+  "sessions": {
+    "s_2af06e192926bf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2e561b8-22c4-4c01-8611-fdf1f9044323",
+        "model": "deepseek/deepseek-v4-flash"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
