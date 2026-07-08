@@ -1,0 +1,19 @@
+apps/vscode/webview-ui/src/components/settings/providers/providerSettingsRegistry.ts
+  s_7da5dda65b5cdc::t_99f72212d77dc6 103-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8aa0f2f18f195e1e56a0a5eb030386a2533ebc78",
+  "prompts": {},
+  "sessions": {
+    "s_7da5dda65b5cdc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f4035-4f7f-70b0-8496-ec05ec1cfcf8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
